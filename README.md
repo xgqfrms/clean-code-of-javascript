@@ -6,7 +6,6 @@
 
 ![WTF times](https://img2018.cnblogs.com/blog/740516/201909/740516-20190904160529522-2091629254.png)
 
-
  
 ## 目录
   1. [介绍](#介绍)
@@ -73,7 +72,7 @@ getCustomerRecord();
 ```
 
 **正例**:
-```javascript
+```js
 getUser();
 ```
 **[回到目录](#目录)**
@@ -83,7 +82,7 @@ getUser();
 让你的变量名易于检索。
 
 **反例**:
-```javascript
+```js
 // 525600 是什么?
 for (var i = 0; i < 525600; i++) {
   runCronJob();
@@ -150,32 +149,35 @@ locations.forEach((location) => {
 **[回到目录](#目录)**
 
 ### 避免重复的描述
-当类/对象名已经有意义时，对其变量进行命名不需要再次重复。
+
+> 当类/对象名已经有意义时, 对其成员变量(properties)不需要再次重复命名;
 
 **反例**:
-```javascript
+```js
 var Car = {
-  carMake: 'Honda',
-  carModel: 'Accord',
-  carColor: 'Blue'
+    carMake: 'Honda',
+    carModel: 'Accord',
+    carColor: 'Blue'
 };
 
 function paintCar(car) {
-  car.carColor = 'Red';
+    car.carColor = 'Red';
 }
 ```
 
 **正例**:
-```javascript
+
+```js
 var Car = {
-  make: 'Honda',
-  model: 'Accord',
-  color: 'Blue'
+    make: 'Honda',
+    model: 'Accord',
+    color: 'Blue',
 };
 
-function paintCar(car) {
-  car.color = 'Red';
+function paint(car) {
+    car.color = 'Red';
 }
+
 ```
 **[回到目录](#目录)**
 
