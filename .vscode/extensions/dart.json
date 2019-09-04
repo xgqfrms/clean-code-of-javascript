@@ -1,0 +1,21 @@
+{
+    "Dart 2.x Template": {
+        "prefix": "d2t",
+        "body": [
+            "/**",
+            " * ",
+            " * @author xgqfrms",
+            " * @license MIT",
+            " * @copyright xgqfrms",
+            " * ",
+            " * @description $2",
+            " * @augments $3",
+            " * @example $4",
+            " * @link $5",
+            " * ",
+            " */",
+            ""
+        ],
+        "description": "Dart 2.x Template & code snippets!"
+    }
+}

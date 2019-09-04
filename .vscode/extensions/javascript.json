@@ -1,0 +1,37 @@
+{
+    "JavaScript ES Next Template": {
+        "prefix": "esn",
+        "body": [
+            "\"use strict\";",
+            "",
+            "/**",
+            " * ",
+            " * @author xgqfrms",
+            " * @license MIT",
+            " * @copyright xgqfrms",
+            " * ",
+            " * @description $2",
+            " * @augments $3",
+            " * @example $4",
+            " * @link $5",
+            " * ",
+            " */",
+            "",
+            "const $2Generator = ($5datas = [], debug = false) => {",
+            "    let result = ``;",
+            "    // do something...",
+            "    return $7result;",
+            "};",
+            "",
+            "",
+            "",
+            "export default $2;",
+            "",
+            "export {",
+            "    $2,",
+            "};",
+            "",
+        ],
+        "description": "JavaScript ES Next Template & code snippets!"
+    }
+}
