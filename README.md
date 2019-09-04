@@ -4,7 +4,12 @@
 
 [Original GitHUb Repo](https://github.com/ryanmcdermott/clean-code-javascript)
 
-![WTF times](https://img2018.cnblogs.com/blog/740516/201909/740516-20190904160529522-2091629254.png)
+![WTF times](https://user-images.githubusercontent.com/7291672/64237885-dd04c280-cf2f-11e9-8763-b7a4549e94e2.png)
+
+
+```js
+    // todos
+```
 
  
 ## 目录
