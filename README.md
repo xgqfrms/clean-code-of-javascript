@@ -1,8 +1,8 @@
 # Clean Code of JavaScript
 
-> JavaScript 风格指南
+> 代码简洁之道 JavaScript 版
 
-https://github.com/ryanmcdermott/clean-code-javascript
+[Original GitHUb Repo](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ![WTF times](https://img2018.cnblogs.com/blog/740516/201909/740516-20190904160529522-2091629254.png)
 
