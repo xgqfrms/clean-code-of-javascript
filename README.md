@@ -4,6 +4,9 @@
 
 https://github.com/ryanmcdermott/clean-code-javascript
 
+![WTF times](https://img2018.cnblogs.com/blog/740516/201909/740516-20190904160529522-2091629254.png)
+
+
  
 ## 目录
   1. [介绍](#介绍)
