@@ -8,8 +8,20 @@
 
 
 ```js
-    // todos
+// todos
+6. SOLID
+
+12. Translation
+
 ```
+
+<!--
+
+https://github.com/ryanmcdermott/clean-code-javascript#solid
+
+https://github.com/beginor/clean-code-javascript#solid
+
+-->
 
 
 ## 目录
